@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\IntegersToplama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40689435-39CC-4DBF-A7BB-C54D9C52A862}|IntegersToplama\\IntegersToplama.csproj|c:\\users\\canoz\\onedrive - s\u0130vas b\u0130l\u0130m ve teknoloj\u0130 \u00FCn\u0130vers\u0130tes\u0130\\masa\u00FCst\u00FC\\yzta\\akademi\\unity 101\\integerstoplama\\integerstoplama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40689435-39CC-4DBF-A7BB-C54D9C52A862}|IntegersToplama\\IntegersToplama.csproj|solutionrelative:integerstoplama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\IntegersToplama\\IntegersToplama\\Program.cs",
+              "RelativeDocumentMoniker": "IntegersToplama\\Program.cs",
+              "ToolTip": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\IntegersToplama\\IntegersToplama\\Program.cs*",
+              "RelativeToolTip": "IntegersToplama\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:37:56.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

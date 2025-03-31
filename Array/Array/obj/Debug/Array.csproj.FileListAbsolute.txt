@@ -1,0 +1,7 @@
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Array\Array\bin\Debug\Array.exe.config
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Array\Array\bin\Debug\Array.exe
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Array\Array\bin\Debug\Array.pdb
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Array\Array\obj\Debug\Array.exe
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Array\Array\obj\Debug\Array.pdb

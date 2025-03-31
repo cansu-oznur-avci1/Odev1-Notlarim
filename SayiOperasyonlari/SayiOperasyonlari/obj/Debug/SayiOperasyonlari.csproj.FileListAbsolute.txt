@@ -1,0 +1,7 @@
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\SayiOperasyonlari\SayiOperasyonlari\bin\Debug\SayiOperasyonlari.exe.config
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\SayiOperasyonlari\SayiOperasyonlari\bin\Debug\SayiOperasyonlari.exe
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\SayiOperasyonlari\SayiOperasyonlari\bin\Debug\SayiOperasyonlari.pdb
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\SayiOperasyonlari\SayiOperasyonlari\obj\Debug\SayiOperasyonlari.csproj.AssemblyReference.cache
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\SayiOperasyonlari\SayiOperasyonlari\obj\Debug\SayiOperasyonlari.csproj.CoreCompileInputs.cache
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\SayiOperasyonlari\SayiOperasyonlari\obj\Debug\SayiOperasyonlari.exe
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\SayiOperasyonlari\SayiOperasyonlari\obj\Debug\SayiOperasyonlari.pdb

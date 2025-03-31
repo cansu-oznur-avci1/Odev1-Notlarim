@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\StringConcatanate(birle\u015Ftirme)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BA9063-A9DE-493D-B6ED-59062165BD56}|StringConcatanate(birle\u015Ftirme)\\StringConcatanate(birle\u015Ftirme).csproj|c:\\users\\canoz\\onedrive - s\u0130vas b\u0130l\u0130m ve teknoloj\u0130 \u00FCn\u0130vers\u0130tes\u0130\\masa\u00FCst\u00FC\\yzta\\akademi\\unity 101\\stringconcatanate(birle\u015Ftirme)\\stringconcatanate(birle\u015Ftirme)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BA9063-A9DE-493D-B6ED-59062165BD56}|StringConcatanate(birle\u015Ftirme)\\StringConcatanate(birle\u015Ftirme).csproj|solutionrelative:stringconcatanate(birle\u015Ftirme)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\StringConcatanate(birle\u015Ftirme)\\StringConcatanate(birle\u015Ftirme)\\Program.cs",
+              "RelativeDocumentMoniker": "StringConcatanate(birle\u015Ftirme)\\Program.cs",
+              "ToolTip": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\StringConcatanate(birle\u015Ftirme)\\StringConcatanate(birle\u015Ftirme)\\Program.cs",
+              "RelativeToolTip": "StringConcatanate(birle\u015Ftirme)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:09:05.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

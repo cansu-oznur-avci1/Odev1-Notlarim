@@ -1,0 +1,7 @@
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Literals(SabitDeğerler)\Literals(SabitDeğerler)\bin\Debug\Literals(SabitDeğerler).exe.config
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Literals(SabitDeğerler)\Literals(SabitDeğerler)\bin\Debug\Literals(SabitDeğerler).exe
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Literals(SabitDeğerler)\Literals(SabitDeğerler)\bin\Debug\Literals(SabitDeğerler).pdb
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Literals(SabitDeğerler)\Literals(SabitDeğerler)\obj\Debug\Literals(SabitDeğerler).csproj.AssemblyReference.cache
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Literals(SabitDeğerler)\Literals(SabitDeğerler)\obj\Debug\Literals(SabitDeğerler).csproj.CoreCompileInputs.cache
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Literals(SabitDeğerler)\Literals(SabitDeğerler)\obj\Debug\Literals(SabitDeğerler).exe
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\Literals(SabitDeğerler)\Literals(SabitDeğerler)\obj\Debug\Literals(SabitDeğerler).pdb

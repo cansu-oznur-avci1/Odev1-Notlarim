@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46537A7A-75FB-437D-8246-32E2916AC22E}|Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama).csproj|c:\\users\\canoz\\onedrive - s\u0130vas b\u0130l\u0130m ve teknoloj\u0130 \u00FCn\u0130vers\u0130tes\u0130\\masa\u00FCst\u00FC\\yzta\\akademi\\unity 101\\deklarasyon(de\u011Fi\u015Fkentan\u0131mlama)\\deklarasyon(de\u011Fi\u015Fkentan\u0131mlama)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46537A7A-75FB-437D-8246-32E2916AC22E}|Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama).csproj|solutionrelative:deklarasyon(de\u011Fi\u015Fkentan\u0131mlama)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\Program.cs",
+              "RelativeDocumentMoniker": "Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\Program.cs",
+              "ToolTip": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\Program.cs",
+              "RelativeToolTip": "Deklarasyon(De\u011Fi\u015FkenTan\u0131mlama)\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBEAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:23:18.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

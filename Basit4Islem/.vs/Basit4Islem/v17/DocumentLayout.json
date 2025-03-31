@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\Basit4Islem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E021F540-949F-4CE6-94C5-6D6D837350DF}|Basit4Islem\\Basit4Islem.csproj|c:\\users\\canoz\\onedrive - s\u0130vas b\u0130l\u0130m ve teknoloj\u0130 \u00FCn\u0130vers\u0130tes\u0130\\masa\u00FCst\u00FC\\yzta\\akademi\\unity 101\\basit4islem\\basit4islem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E021F540-949F-4CE6-94C5-6D6D837350DF}|Basit4Islem\\Basit4Islem.csproj|solutionrelative:basit4islem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\Basit4Islem\\Basit4Islem\\Program.cs",
+              "RelativeDocumentMoniker": "Basit4Islem\\Program.cs",
+              "ToolTip": "C:\\Users\\canoz\\OneDrive - S\u0130VAS B\u0130L\u0130M VE TEKNOLOJ\u0130 \u00DCN\u0130VERS\u0130TES\u0130\\Masa\u00FCst\u00FC\\YZTA\\Akademi\\Unity 101\\Basit4Islem\\Basit4Islem\\Program.cs",
+              "RelativeToolTip": "Basit4Islem\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:53:09.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

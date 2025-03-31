@@ -1,0 +1,7 @@
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\If-Else-Elseif\If-Else-Elseif\bin\Debug\If-Else-Elseif.exe.config
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\If-Else-Elseif\If-Else-Elseif\bin\Debug\If-Else-Elseif.exe
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\If-Else-Elseif\If-Else-Elseif\bin\Debug\If-Else-Elseif.pdb
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\If-Else-Elseif\If-Else-Elseif\obj\Debug\If-Else-Elseif.csproj.AssemblyReference.cache
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\If-Else-Elseif\If-Else-Elseif\obj\Debug\If-Else-Elseif.csproj.CoreCompileInputs.cache
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\If-Else-Elseif\If-Else-Elseif\obj\Debug\If-Else-Elseif.exe
+C:\Users\canoz\OneDrive - SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ\Masaüstü\YZTA\Akademi\Unity 101\If-Else-Elseif\If-Else-Elseif\obj\Debug\If-Else-Elseif.pdb
